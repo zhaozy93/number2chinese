@@ -1,0 +1,19 @@
+{
+  "name": "number2chinese",
+  "version": "1.0.0",
+  "description": "convert number to chinese speech || 转换阿拉伯数字到汉语写法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaozy93/number2chinese.git"
+  },
+  "author": "johnny <zhaozy93@outllok.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaozy93/number2chinese/issues"
+  },
+  "homepage": "https://github.com/zhaozy93/number2chinese#readme"
+}
